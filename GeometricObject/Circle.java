@@ -26,4 +26,5 @@ public class Circle extends GeometricObject1 {
 	public double getDiameter(){
 		return radius * 2;
 	}
+	//add a toString() method
 }
