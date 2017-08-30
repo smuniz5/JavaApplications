@@ -1,5 +1,4 @@
 //Savannah Muniz
-
 import java.util.Date;
 
 public class Time {
